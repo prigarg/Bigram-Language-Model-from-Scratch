@@ -8,6 +8,7 @@ There are `10059` sentences , `17139` of unique words and `218619` words in the 
 We check our model for two sentences::
 1) `thus , because no man can follow another into these halls`
 2) `upon this the captain started , and eagerly desired to know more`
+
 Which are entered as list in the main program.
 
 ### Results
@@ -27,6 +28,6 @@ add-one smooting::
 The structure of the command is ::
 > python -u <python-file-name.py> <smoothing(0 or 1)> <input-txt-data.txt> > <output-txt-file.txt>
 
-#### Note: There is bigram_model.ipynb file also which can be directly opened on Jupyter Notebook, make sure training corpus is in the same folder. It also contains the detailed explaination of the program.
+##### Note: There is `bigram_model.ipynb` file also which can be directly opened on Jupyter Notebook, make sure training corpus is in the same folder. It also contains the detailed explaination of the program.
 
 
