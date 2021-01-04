@@ -1,4 +1,5 @@
-# Bigram-Language-Model
+# N-gram in Natural Language Processing
+## Bigram-Language-Model
 A Bigram Language Model is trained for the training corpus with no-smoothing and add-one smoothing. For testing purpose, bigram counts, bigram probabilities for the test sentence along with the probability of test sentence under the trained model is printed to a text file. A detailed working explanation of code is documented in the program. The code is in Python.
 ### Training Corpus
 There are `10059` sentences , `17139` of unique words and `218619` words in the corpus. 
