@@ -1,5 +1,5 @@
 # N-gram in Natural Language Processing
-### Bigram-Language-Model
+### Bigram-Language-Model-from-Scratch
 In this python program a Bigram Language Model is build from scratch and trained for the training corpus with no-smoothing and add-one smoothing. A detailed working explanation of code is documented in the program.
 ### Training Corpus
 There are `10059` sentences , `17139` of unique words and `218619` words in the corpus. 
